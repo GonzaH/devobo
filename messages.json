@@ -1,0 +1,228 @@
+[
+  {
+    "message": "*repite lo que dijeron todos en la daily*",
+    "tags": ["repetir"]
+  },
+  {
+    "message": "@username completa la planilla de horas o te apuñalo con la banana",
+    "tags": ["banana", "horas"]
+  },
+  {
+    "message": "Ah, así es como vos abrís los archivos de texto",
+    "tags": ["emacs", "nano", "vscode", "vim"]
+  },
+  {
+    "message": "Ah, necesitás la documentación de la api para poder estimar?",
+    "tags": ["api", "estima"]
+  },
+  {
+    "message": "Arreglalo como puedas que me quiero sacar esto se encima",
+    "tags": ["arregla", "fix"]
+  },
+  { "message": "Automerge a lo loco 😝",
+    "tags": ["a lo loco"]
+  },
+  { "message": "Borré la evidencia",
+    "tags": ["evidencia", "quien fue"]
+  },
+  { "message": "Che, equipo de QA, vayan probando esta",
+    "tags": ["qa"]
+  },
+  {
+    "message": "Comentamos la línea, que nos devuelva true y listo",
+    "tags": ["fix", "hardcode"]
+  },
+  { "message": "Como que esto esta hardcodeado",
+    "tags": ["hardcode"]
+  },
+  {
+    "message": "Como que no llegamos? A veces te tengo mas confianza que vos mismo",
+    "tags": ["no llegamos"]
+  },
+  { "message": "Cuando lo explicó tenía sentido",
+    "tags": ["explic"]
+  },
+  {
+    "message": "Cuanto estimarías que te puede llevar esta estimación?",
+    "tags": ["estima"]
+  },
+  {
+    "message": "Eliminemos la blockchain. Nadie la necesita.",
+    "tags": ["blockchain", "cadena de bloquecitos"]
+  },
+  {
+    "message": "Entiendo pero necesitamos conseguir el ok del cliente al menos en aspectos generales con el compromiso de arreglar lo q haya q arreglar",
+    "tags": ["cliente", "compromiso"]
+  },
+  { "message": "Eso se ve horrible",
+    "tags": ["estetica"]
+  },
+  { "message": "Espero el reporte aprobado",
+    "tags": ["qa"]
+  },
+  { "message": "Estamos atrasados",
+    "tags": ["atrasados", "tiempo"]
+  },
+  {
+    "message": "Esto lo hablamos ayer y te mandaste a hacer cualquier cosa",
+    "tags": ["lo hablamos"]
+  },
+  {
+    "message": "Estuve toda la semana con @project, no tengo idea en qué andan todos ustedes",
+    "tags": ["ocupado"]
+  },
+  { "message": "Estuve viendo algunas cosas feas feas",
+    "tags": ["feas"]
+  },
+  {
+    "message": "Habría que analizar en qué les impacta poner una fecha de 181 días en lugar de 180. Hablémoslo un toque",
+    "tags": ["bcr", "hablemoslo"]
+  },
+  { "message": "Hardcodeen esta parte y listo",
+    "tags": ["hardcode"]
+  },
+  { "message": "Hay que hacer la registración",
+    "tags": ["registro"]
+  },
+  {
+    "message": "Hay que recortar calidad pero no de la que aporta seguridad ni velocidad al equipo",
+    "tags": ["calidad"]
+  },
+  { "message": "Ignorá eso por ahora",
+    "tags": ["ignora"]
+  },
+  {
+    "message": "Igual, vendimos 4 horas y ya estimamos 10",
+    "tags": ["estima", "seniority"]
+  },
+  {
+    "message": "La birra es más importante que cargar las horas",
+    "tags": ["after", "birra", "pancho ruso", "horas"]
+  },
+  { "message": "Mirame",
+    "tags": ["mirame"]
+  },
+  { "message": "Mucho huevo",
+    "tags": ["huevo"]
+  },
+  {
+    "message": "Necesito que tus mañanas sean productivas @username",
+    "tags": ["a la mañana"]
+  },
+  { "message": "No castigues al proyecto",
+    "tags": ["castigues"]
+  },
+  { "message": "No deployen",
+    "tags": ["deploy"]
+  },
+  {
+    "message": "No esta definido el issue, pero te explico...",
+    "tags": ["issue"]
+  },
+  {
+    "message": "No estamos bajando calidad, estamos cambiando un requerimiento",
+    "tags": ["calidad"]
+  },
+  {
+    "message": "No los quiero presionar pero vengo a presionarlos",
+    "tags": ["presion"]
+  },
+  {
+    "message": "No me importa que esté bien, sólo que salga rápido",
+    "tags": ["rapido"]
+  },
+  {
+    "message": "No me tenés que mentir a mí, yo soy el que te ayuda a mentirle al cliente",
+    "tags": ["mentir"]
+  },
+  {
+    "message": "No se tus horarios pero mañana tenemos demo",
+    "tags": ["horario"]
+  },
+  {
+    "message": "No, porque el viernes pasado me comi el paquete del cliente",
+    "tags": ["cliente", "paquete"]
+  },
+  {
+    "message": "Ok, está en el repo, pero está en el repo de producción ??",
+    "tags": ["produccion", "repo"]
+  },
+  {
+    "message": "Ok, vengo a pedirles un estatus cada tanto para ver cómo vamos",
+    "tags": ["estatus", "status"]
+  },
+  { "message": "Para cuando me haces esto",
+    "tags": ["para cuando"]
+  },
+  { "message": "Para que estemos todos alineados",
+    "tags": ["alineado"]
+  },
+  {
+    "message": "Pasa que lo vendimos con otro señority",
+    "tags": ["seniority"]
+  },
+  { "message": "Pasaron algunas cosas raras",
+    "tags": ["pasaron cosas", "raras"]
+  },
+  { "message": "Pingueame físicamente",
+    "tags": ["ping"]
+  },
+  { "message": "Podria validar lo que entendi",
+    "tags": ["validar"]
+  },
+  {
+    "message": "Que es esto de gitlab? me tengo que crear una cuenta?",
+    "tags": ["gitlab"]
+  },
+  { "message": "Que horarios estas haciendo?",
+    "tags": ["horarios"]
+  },
+  { "message": "Que pasa que esto no esta en el excel?",
+    "tags": ["excel"]
+  },
+  {
+    "message": "Queda en la mente de ustedes si el proyecto sigue en pie o no...",
+    "tags": ["sigue en pie"]
+  },
+  {
+    "message": "Quería estar alineado con lo que vos dijiste ayer a ver si panquequeamos",
+    "tags": ["alineado"]
+  },
+  {
+    "message": "Si no llegabas a aparecer, estaba por escribir a atix avisando de tu paradero",
+    "tags": ["hola"]
+  },
+  { "message": "Si te parece dejá esa tarea en standby",
+    "tags": ["tarea"]
+  },
+  { "message": "Si te viene un 0 hardcodeale un 9",
+    "tags": ["hardcode"]
+  },
+  { "message": "Siento que no estamos en la misma página",
+    "tags": ["pagina"]
+  },
+  {
+    "message": "Sprint traducido literalmente es iteración",
+    "tags": ["iteracion", "sprint"]
+  },
+  { "message": "Sí, está todo hardcodeado",
+    "tags": ["hardcode"]
+  },
+  { "message": "Tengo muchas cosas más para ofrecerte.",
+    "tags": ["ofrecer"]
+  },
+  { "message": "Uy, esta planning ya la hicimos",
+    "tags": ["planning"]
+  },
+  { "message": "Vamos a atacar esto",
+    "tags": ["atacar"]
+  },
+  {
+    "message": "Vení que hablamos con el cliente, que me tira esas palabras técnicas que no entiendo",
+    "tags": ["no entiendo", "veni"]
+  },
+  {
+    "message": "Vos hace eso asi lo cierro y sino que la chupen",
+    "tags": ["cierro"]
+  }
+]
