@@ -26,18 +26,20 @@ const handleResult = result =>
         !result.message ||
         !result.message.chat ||
         !result.message.chat.id ||
+        !result.message.from ||
         !result.message.text
       )
         return resolve(updateId);
       const {
         message: {
           chat: { id: chat_id },
-          text
+          text,
+          from: { first_name }
         }
       } = result;
-      console.log("[handleResult]", new Date(),  updateId, text);
+      console.log("[handleResult]", new Date(), updateId, text);
 
-      const response = pickResponse(messages, text);
+      const response = pickResponse(messages, text, first_name);
       if (!response) return resolve(updateId);
 
       Axios.post(`${url}${token}/sendMessage`, { chat_id, text: response })
