@@ -133,20 +133,28 @@
   {
     "message": "Estuve viendo algunas cosas feas feas",
     "tags": [
-      "feas"
+      "feas",
+      "calidad de codigo",
+      "calidad",
+      "codigo malo",
+      "hardcode"
     ]
   },
   {
     "message": "Habría que analizar en qué les impacta poner una fecha de 181 días en lugar de 180. Hablémoslo un toque.",
     "tags": [
       "bcr",
-      "hablemoslo"
+      "hablemoslo",
+      "tiempo"
     ]
   },
   {
     "message": "Hardcodeen esta parte y listo",
     "tags": [
-      "hardcode"
+      "hardcode",
+      "calidad de codigo",
+      "codigo malo",
+      "hardcodeado"
     ]
   },
   {
@@ -158,7 +166,8 @@
   {
     "message": "Hay que recortar calidad pero no de la que aporta seguridad ni velocidad al equipo",
     "tags": [
-      "calidad"
+      "calidad",
+      "venimos bien"
     ]
   },
   {
@@ -210,101 +219,130 @@
   {
     "message": "No deployen",
     "tags": [
-      "deploy"
+      "deploy",
+      "deployar"
     ]
   },
   {
     "message": "No esta definido el issue, pero te explico...",
     "tags": [
-      "issue"
+      "issue",
+      "alineado"
     ]
   },
   {
     "message": "No estamos bajando calidad, estamos cambiando un requerimiento",
     "tags": [
-      "calidad"
+      "calidad",
+      "feature",
+      "hablemoslo",
+      "la demo",
+      "pasaron cosas",
+      "planning"
     ]
   },
   {
     "message": "No los quiero presionar pero vengo a presionarlos",
     "tags": [
-      "presion"
+      "presion",
+      "rapido"
     ]
   },
   {
     "message": "No me importa que esté bien, sólo que salga rápido",
     "tags": [
-      "rapido"
+      "rapido",
+      "calidad de codigo",
+      "funcionando bien"
     ]
   },
   {
     "message": "No me tenés que mentir a mí, yo soy el que te ayuda a mentirle al cliente",
     "tags": [
-      "mentir"
+      "mentir",
+      "hardcodeado",
+      "feature",
+      "venimos bien"
     ]
   },
   {
     "message": "No se tus horarios pero mañana tenemos demo",
     "tags": [
-      "horario"
+      "horario",
+      "demo",
+      "manana"
     ]
   },
   {
-    "message": "No, porque el viernes pasado me comí el paquete del cliente",
+    "message": "El viernes pasado me comí el paquete del cliente",
     "tags": [
       "cliente",
-      "paquete"
+      "paquete",
+      "demo"
     ]
   },
   {
     "message": "Ok, está en el repo, pero está en el repo de producción ??",
     "tags": [
-      "produccion",
-      "repo"
+      "esta en el repo",
+      "esta subido al repo"
     ]
   },
   {
     "message": "Ok, vengo a pedirles un estatus cada tanto para ver cómo vamos",
     "tags": [
       "estatus",
-      "status"
+      "status",
+      "avanzando"
     ]
   },
   {
-    "message": "Para cuando me haces esto",
+    "message": "Para cuándo me hacés esto?",
     "tags": [
-      "para cuando"
+      "para cuando",
+      "feature"
     ]
   },
   {
     "message": "Para que estemos todos alineados",
     "tags": [
-      "alineado"
+      "alineado",
+      "de acuerdo",
+      "no entiendo",
+      "para que",
+      "por que"
     ]
   },
   {
     "message": "Pasa que lo vendimos con otro seniority",
     "tags": [
-      "seniority"
+      "seniority",
+      "atrasado",
+      "demo"
     ]
   },
   {
     "message": "Pasaron algunas cosas raras",
     "tags": [
       "pasaron cosas",
-      "raras"
+      "raras",
+      "demo"
     ]
   },
   {
     "message": "Pingueame físicamente",
     "tags": [
-      "ping"
+      "ping",
+      "sexual",
+      "estoy caliente",
+      "tu cuerpo"
     ]
   },
   {
     "message": "Podría validar lo que entendi",
     "tags": [
-      "validar"
+      "validar",
+      "entendiste?"
     ]
   },
   {
@@ -316,7 +354,9 @@
   {
     "message": "Qué horarios estas haciendo?",
     "tags": [
-      "horarios"
+      "horarios",
+      "llegando",
+      "irme"
     ]
   },
   {
@@ -328,31 +368,39 @@
   {
     "message": "Queda en la mente de ustedes si el proyecto sigue en pie o no...",
     "tags": [
-      "sigue en pie"
+      "sigue en pie",
+      "la demo"
     ]
   },
   {
     "message": "Quería estar alineado con lo que vos dijiste ayer a ver si panquequeamos",
     "tags": [
-      "alineado"
+      "alineado",
+      "ayer dije"
     ]
   },
   {
     "message": "Si no llegabas a aparecer, estaba por escribir a Atix avisando de tu paradero",
     "tags": [
-      "hola"
+      "hola",
+      "aca estoy",
+      "apareci",
+      "apareciste"
     ]
   },
   {
     "message": "Si te parece dejá esa tarea en standby",
     "tags": [
-      "tarea"
+      "tarea",
+      "que hacemos?",
+      "como lo resuelvo?"
     ]
   },
   {
     "message": "Si te viene un 0 hardcodeale un 9",
     "tags": [
-      "hardcode"
+      "hardcode",
+      "como lo resuelvo?"
     ]
   },
   {
@@ -365,19 +413,23 @@
     "message": "Sprint traducido literalmente es iteración",
     "tags": [
       "iteracion",
-      "sprint"
+      "sprint",
+      "sabes ingles"
     ]
   },
   {
     "message": "Sí, está todo hardcodeado",
     "tags": [
-      "hardcode"
+      "hardcode",
+      "buenas practicas",
+      "codigo malo"
     ]
   },
   {
     "message": "Tengo muchas cosas más para ofrecerte.",
     "tags": [
-      "ofrecer"
+      "ofrecer",
+      "que mas me ofreces"
     ]
   },
   {
@@ -389,20 +441,24 @@
   {
     "message": "Vamos a atacar esto",
     "tags": [
-      "atacar"
+      "atacar",
+      "que hacemos?"
     ]
   },
   {
     "message": "Vení que hablamos con el cliente, que me tira esas palabras técnicas que no entiendo",
     "tags": [
       "no entiendo",
-      "veni"
+      "veni",
+      "que hacemos?"
     ]
   },
   {
     "message": "Vos hacé eso asi lo cierro y si no que la chupen",
     "tags": [
-      "cierro"
+      "cierro",
+      "lo que voy a hacer",
+      "no se si hacerlo"
     ]
   }
 ]
