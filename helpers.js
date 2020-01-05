@@ -1,19 +1,21 @@
+const projects = require('./projects')
+
 const normalizeText = input =>
   input
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase();
 
-// Replaces the value of `template` with that of `insert`.
-const replace = (accum, { template, insert }) => accum.replace(template, insert);
+// Replaces the value of `template` with that of `insert` function.
+const replace = (accum, { template, insert }) => accum.replace(template, insert());
 
 /* Replaces the values of `template` values with certain params.
  * For example, `@username` is replaced by the username passed.
  */
 const replaceTemplate = (text, { username = "" }) =>
   [
-    { template: "@username", insert: username },
-    { template: "@project", insert: "" } // TODO: Add projects structure
+    { template: "@username", insert: () => username },
+    { template: "@projectname", insert: getProject}
   ].reduce(
     replace,
     text
@@ -38,4 +40,16 @@ const pickResponse = (messages, input, username) => {
   );
 };
 
-module.exports = { pickResponse };
+/** Converts an obfuscated string to a legible one.
+ * Returns the legible string.
+ * @param { String } obfuscated - The string obfuscated with +1 to each char code.
+ */
+const obfuscatedToLegible = obfuscated => String.fromCharCode(...obfuscated.split("").map(e => e.charCodeAt() - 1));
+
+// Returns a project
+const getProject = () => {
+  const obfuscatedProject = projects[Math.floor(Math.random() * projects.length)];
+  return obfuscatedToLegible(obfuscatedProject);
+};
+
+module.exports = { obfuscatedToLegible, pickResponse };
