@@ -19,6 +19,13 @@
     ]
   },
   {
+    "message": "A veces la calidad del código no es lo que importa",
+    "tags": [
+      "calidad"
+    ]
+  },
+  {
+    
     "message": "Ah, así es como vos abrís los archivos de texto",
     "tags": [
       "emacs",
@@ -32,6 +39,13 @@
     "tags": [
       "api",
       "estima"
+    ]
+  },
+  {
+    "message": "Ah entiendo, no está deployado al ambiente, está en tu localhost",
+    "tags": [
+      "deploy",
+      "deployado"
     ]
   },
   {
@@ -100,6 +114,12 @@
     ]
   },
   {
+    "message": "Cuánto vamos a tardar en hacer todo lo que ya está hecho?",
+    "tags": [
+      "rehacer"
+    ]
+  },
+  {
     "message": "Dentro de lo prioritario hay prioridades",
     "tags": [
       "prioridades",
@@ -147,6 +167,17 @@
     ]
   },
   {
+    "message": "Está como alineado con el universo",
+    "tags": [
+      "astronomia",
+      "galaxia",
+      "orbita",
+      "planeta",
+      "universo"
+    ]
+  }
+,
+  {
     "message": "Estamos atrasados",
     "tags": [
       "atrasados",
@@ -175,6 +206,14 @@
       "hardcode"
     ]
   },
+  {
+    "message": "Hay que definir el scope por sprint, por iteración",
+    "tags": [
+      "scope",
+      "sprint"
+    ]
+  }
+,
   {
     "message": "Habría que analizar en qué les impacta poner una fecha de 181 días en lugar de 180. Hablémoslo un toque.",
     "tags": [
@@ -270,10 +309,24 @@
     ]
   },
   {
+    "message": "No creo que sepa nada @username aún porque no sabe que va a ser el pm",
+    "tags": [
+      "alguien sabe quien",
+      "quien va a ser"
+    ]
+  },
+  {
     "message": "No deployen",
     "tags": [
       "deploy",
       "deployar"
+    ]
+  },
+  {
+    "message": "No desaparezcamos por favor, hay compromisos asumidos",
+    "tags": [
+      "chau",
+      "me voy"
     ]
   },
   {
@@ -323,6 +376,12 @@
       "hardcodeado",
       "feature",
       "venimos bien"
+    ]
+  },
+  {
+    "message": "No sé si te enteraste pero el sprint actual de @projectname mutó a otra cosa",
+    "tags": [
+      "desalineados"
     ]
   },
   {
@@ -379,6 +438,12 @@
       "pasaron cosas",
       "raras",
       "demo"
+    ]
+  },
+  {
+    "message": "Pero que es una transferencia?",
+    "tags": [
+      "una transferencia es"
     ]
   },
   {
@@ -481,6 +546,12 @@
     ]
   },
   {
+    "message": "So we are aligned",
+    "tags": [
+      "en ingles"
+    ]
+  },
+  {
     "message": "Sprint traducido literalmente es iteración",
     "tags": [
       "iteracion",
@@ -517,6 +588,16 @@
     ]
   },
   {
+    "message": "Trabajar bien no esta relacionado con el presupuesto",
+    "tags": [
+      "laburar",
+      "trabajar",
+      "no tengo plata",
+      "sueldo de mierda",
+      "underpay"
+    ]
+  },
+  {
     "message": "Uy, esta planning ya la hicimos",
     "tags": [
       "planning"
@@ -546,6 +627,12 @@
     ]
   },
   {
+    "message": "Y no hay forma de hacer ese refactor sin modificar el codigo?",
+    "tags": [
+      "refactor"
+    ]
+  },
+  {
     "message": "Y podemos debuggear la respuesta?",
     "tags": [
       "debuggear",
@@ -559,5 +646,34 @@
       "hoy es miercoles",
       "memusica"
     ]
+  },
+
+  {
+    "message": "Yo creo que estamos desalineados pero tenemos que alinearnos",
+    "tags": [
+      "desalineados"
+    ]
+  },
+  {
+    "message": "Yo puedo usar su slack y hacerme pasar por él",
+    "tags": [
+      "slack",
+      "ya no esta mas"
+    ]
   }
 ]
+
+
+
+
+
+
+
+    
+
+  
+
+
+  
+  
+  
