@@ -1,679 +1,375 @@
 [
   {
     "message": "*repite lo que dijeron todos en la daily*",
-    "tags": [
-      "repetir"
-    ]
+    "tags": ["repetir"]
   },
   {
     "message": "@projectname debe tener más bugs que chinos en la china",
-    "tags": [
-      "china"
-    ]
+    "tags": ["china"]
   },
   {
     "message": "@username completa la planilla de horas o te apuñalo con la banana",
-    "tags": [
-      "banana",
-      "horas"
-    ]
+    "tags": ["banana", "horas"]
   },
   {
     "message": "A veces la calidad del código no es lo que importa",
-    "tags": [
-      "calidad"
-    ]
+    "tags": ["calidad"]
   },
   {
-    
     "message": "Ah, así es como vos abrís los archivos de texto",
-    "tags": [
-      "emacs",
-      "nano",
-      "vscode",
-      "vim"
-    ]
+    "tags": ["emacs", "nano", "vscode", "vim"]
   },
   {
     "message": "Ah, necesitás la documentación de la api para poder estimar?",
-    "tags": [
-      "api",
-      "estima"
-    ]
+    "tags": ["api", "estima"]
   },
   {
     "message": "Ah entiendo, no está deployado al ambiente, está en tu localhost",
-    "tags": [
-      "deploy",
-      "deployado"
-    ]
+    "tags": ["deploy", "deployado"]
   },
   {
     "message": "Arreglalo como puedas que me quiero sacar esto de encima",
-    "tags": [
-      "arregla",
-      "fix"
-    ]
+    "tags": ["arregla", "fix"]
   },
   {
     "message": "Automerge a lo loco 😝",
-    "tags": [
-      "a lo loco"
-    ]
+    "tags": ["a lo loco"]
   },
   {
     "message": "Borré la evidencia",
-    "tags": [
-      "evidencia",
-      "quien fue"
-    ]
+    "tags": ["evidencia", "quien fue"]
   },
   {
     "message": "Che @username... ah no, ya hablé con vos",
-    "tags": [
-      "dimabot",
-      "peemebot",
-      "pmbot"
-    ]
+    "tags": ["dimabot", "peemebot", "pmbot"]
   },
   {
     "message": "Che, equipo de QA, vayan probando esta",
-    "tags": [
-      "qa"
-    ]
+    "tags": ["qa"]
   },
   {
     "message": "Comentamos la línea, que nos devuelva true y listo",
-    "tags": [
-      "fix",
-      "hardcode"
-    ]
+    "tags": ["fix", "hardcode"]
   },
   {
     "message": "Como que esto esta hardcodeado",
-    "tags": [
-      "hardcode"
-    ]
+    "tags": ["hardcode"]
   },
   {
     "message": "Cuando lo explicó tenía sentido",
-    "tags": [
-      "explic"
-    ]
+    "tags": ["explic"]
   },
   {
     "message": "Cuánto estimarías que te puede llevar esta estimación?",
-    "tags": [
-      "estima"
-    ]
+    "tags": ["estima"]
   },
   {
     "message": "Cómo que no llegamos? A veces te tengo mas confianza que vos mismo",
-    "tags": [
-      "no llegamos"
-    ]
+    "tags": ["no llegamos"]
   },
   {
     "message": "Cuánto vamos a tardar en hacer todo lo que ya está hecho?",
-    "tags": [
-      "rehacer"
-    ]
+    "tags": ["rehacer"]
   },
   {
     "message": "Dentro de lo prioritario hay prioridades",
-    "tags": [
-      "prioridades",
-      "prioritario"
-    ]
+    "tags": ["prioridades", "prioritario"]
   },
   {
     "message": "El viernes pasado me comí el paquete del cliente",
-    "tags": [
-      "cliente",
-      "paquete",
-      "demo"
-    ]
+    "tags": ["cliente", "paquete", "demo"]
   },
   {
     "message": "Eliminemos la blockchain. Nadie la necesita.",
-    "tags": [
-      "blockchain",
-      "cadena de bloquecitos"
-    ]
+    "tags": ["blockchain", "cadena de bloquecitos"]
   },
   {
     "message": "Entiendo pero necesitamos conseguir el ok del cliente al menos en aspectos generales con el compromiso de arreglar lo que haya que arreglar",
-    "tags": [
-      "cliente",
-      "compromiso"
-    ]
+    "tags": ["cliente", "compromiso"]
   },
   {
     "message": "Es que no entiendo qué suma hacer comentarios a reviews tan finamente, no aumenta la calidad de código con esta revisión de pares. Mientras que no tengamos cosas burdas comentadas, no hay tiempo para tanto detalle (desde mi punto de vista)",
-    "tags": [
-      "deci lo tuyo"
-    ]
+    "tags": ["deci lo tuyo"]
   },
   {
     "message": "Eso se ve horrible",
-    "tags": [
-      "estetica"
-    ]
+    "tags": ["estetica"]
   },
   {
     "message": "Espero el reporte aprobado",
-    "tags": [
-      "qa"
-    ]
+    "tags": ["qa"]
   },
   {
     "message": "Está como alineado con el universo",
-    "tags": [
-      "astronomia",
-      "galaxia",
-      "orbita",
-      "planeta",
-      "universo"
-    ]
-  }
-,
+    "tags": ["astronomia", "galaxia", "orbita", "planeta", "universo"]
+  },
   {
     "message": "Estamos atrasados",
-    "tags": [
-      "atrasados",
-      "tiempo"
-    ]
+    "tags": ["atrasados", "tiempo"]
   },
   {
     "message": "Esto lo hablamos ayer y te mandaste a hacer cualquier cosa",
-    "tags": [
-      "lo hablamos"
-    ]
+    "tags": ["lo hablamos"]
   },
   {
     "message": "Estuve toda la semana con @project, no tengo idea en qué andan todos ustedes",
-    "tags": [
-      "ocupado"
-    ]
+    "tags": ["ocupado"]
   },
   {
     "message": "Estuve viendo algunas cosas feas feas",
-    "tags": [
-      "feas",
-      "calidad de codigo",
-      "calidad",
-      "codigo malo",
-      "hardcode"
-    ]
+    "tags": ["feas", "calidad de codigo", "calidad", "codigo malo", "hardcode"]
   },
   {
     "message": "Hay que definir el scope por sprint, por iteración",
-    "tags": [
-      "scope",
-      "sprint"
-    ]
-  }
-,
+    "tags": ["scope", "sprint"]
+  },
   {
     "message": "Habría que analizar en qué les impacta poner una fecha de 181 días en lugar de 180. Hablémoslo un toque.",
-    "tags": [
-      "bcr",
-      "hablemoslo",
-      "tiempo"
-    ]
+    "tags": ["bcr", "hablemoslo", "tiempo"]
   },
   {
     "message": "Hardcodeen esta parte y listo",
-    "tags": [
-      "hardcode",
-      "calidad de codigo",
-      "codigo malo",
-      "hardcodeado"
-    ]
+    "tags": ["hardcode", "calidad de codigo", "codigo malo", "hardcodeado"]
   },
   {
     "message": "Hay que hacer la registración",
-    "tags": [
-      "registro"
-    ]
+    "tags": ["registro"]
   },
   {
     "message": "Hay que recortar calidad pero no de la que aporta seguridad ni velocidad al equipo",
-    "tags": [
-      "calidad",
-      "venimos bien"
-    ]
+    "tags": ["calidad", "venimos bien"]
   },
   {
     "message": "Ignorá eso por ahora",
-    "tags": [
-      "ignora"
-    ]
+    "tags": ["ignora"]
   },
   {
     "message": "Igual, vendimos 4 horas y ya estimamos 10",
-    "tags": [
-      "estima",
-      "seniority"
-    ]
+    "tags": ["estima", "seniority"]
   },
   {
     "message": "La birra es más importante que cargar las horas",
-    "tags": [
-      "after",
-      "birra",
-      "pancho ruso",
-      "horas"
-    ]
+    "tags": ["after", "birra", "pancho ruso", "horas"]
   },
   {
     "message": "Me causa gracia que @username le haya cargado 3 horas y la tarea siga en open",
-    "tags": [
-      "horas"
-    ]
+    "tags": ["horas"]
   },
   {
     "message": "Mirame",
-    "tags": [
-      "mirame"
-    ]
+    "tags": ["mirame"]
   },
   {
     "message": "Mostrame en que línea está el bug",
-    "tags": [
-      "bug"
-    ]
+    "tags": ["bug"]
   },
   {
     "message": "Mucho huevo",
-    "tags": [
-      "huevo"
-    ]
+    "tags": ["huevo"]
   },
   {
     "message": "Más transparencia",
-    "tags": [
-      "transparen"
-    ]
+    "tags": ["transparen"]
   },
   {
     "message": "Necesito que tus mañanas sean productivas, @username",
-    "tags": [
-      "a la manana"
-    ]
+    "tags": ["a la manana"]
   },
   {
     "message": "No castigues al proyecto",
-    "tags": [
-      "castigues"
-    ]
+    "tags": ["castigues"]
   },
   {
     "message": "No creo que sepa nada @username aún porque no sabe que va a ser el pm",
-    "tags": [
-      "alguien sabe quien",
-      "quien va a ser"
-    ]
+    "tags": ["alguien sabe quien", "quien va a ser"]
   },
   {
     "message": "No deployen",
-    "tags": [
-      "deploy",
-      "deployar"
-    ]
+    "tags": ["deploy", "deployar"]
   },
   {
     "message": "No desaparezcamos por favor, hay compromisos asumidos",
-    "tags": [
-      "chau",
-      "me voy"
-    ]
+    "tags": ["chau", "me voy"]
   },
   {
     "message": "No esta definido el issue, pero te explico...",
-    "tags": [
-      "issue",
-      "alineado"
-    ]
+    "tags": ["issue", "alineado"]
   },
   {
     "message": "No estamos bajando calidad, estamos cambiando un requerimiento",
-    "tags": [
-      "calidad",
-      "feature",
-      "hablemoslo",
-      "la demo",
-      "pasaron cosas",
-      "planning"
-    ]
+    "tags": ["calidad", "feature", "hablemoslo", "la demo", "pasaron cosas", "planning"]
   },
   {
     "message": "No está alineado, no sé si vos ves lo mismo",
-    "tags": [
-      "alineado",
-      "no lo veo"
-    ]
+    "tags": ["alineado", "no lo veo"]
   },
   {
     "message": "No los quiero presionar pero vengo a presionarlos",
-    "tags": [
-      "presion",
-      "rapido"
-    ]
+    "tags": ["presion", "rapido"]
   },
   {
     "message": "No me importa que esté bien, sólo que salga rápido",
-    "tags": [
-      "rapido",
-      "calidad de codigo",
-      "funcionando bien"
-    ]
+    "tags": ["rapido", "calidad de codigo", "funcionando bien"]
   },
   {
     "message": "No me tenés que mentir a mí, yo soy el que te ayuda a mentirle al cliente",
-    "tags": [
-      "mentir",
-      "hardcodeado",
-      "feature",
-      "venimos bien"
-    ]
+    "tags": ["mentir", "hardcodeado", "feature", "venimos bien"]
   },
   {
     "message": "No sé si te enteraste pero el sprint actual de @projectname mutó a otra cosa",
-    "tags": [
-      "desalineados"
-    ]
+    "tags": ["desalineados"]
   },
   {
     "message": "No se tus horarios pero mañana tenemos demo",
-    "tags": [
-      "horario",
-      "demo",
-      "manana"
-    ]
+    "tags": ["horario", "demo", "manana"]
   },
   {
     "message": "Ok, está en el repo, pero está en el repo de producción ??",
-    "tags": [
-      "esta en el repo",
-      "esta subido al repo"
-    ]
+    "tags": ["esta en el repo", "esta subido al repo"]
   },
   {
     "message": "Ok, vengo a pedirles un estatus cada tanto para ver cómo vamos",
-    "tags": [
-      "estatus",
-      "status",
-      "avanzando"
-    ]
+    "tags": ["estatus", "status", "avanzando"]
   },
   {
     "message": "Para cuándo me hacés esto?",
-    "tags": [
-      "para cuando",
-      "feature"
-    ]
+    "tags": ["para cuando", "feature"]
   },
   {
     "message": "Para que estemos todos alineados",
-    "tags": [
-      "alineado",
-      "de acuerdo",
-      "no entiendo",
-      "para que",
-      "por que"
-    ]
+    "tags": ["alineado", "de acuerdo", "no entiendo", "para que", "por que"]
   },
   {
     "message": "Pasa que lo vendimos con otro seniority",
-    "tags": [
-      "seniority",
-      "atrasado",
-      "demo"
-    ]
+    "tags": ["seniority", "atrasado", "demo"]
   },
   {
     "message": "Pasaron algunas cosas raras",
-    "tags": [
-      "pasaron cosas",
-      "raras",
-      "demo"
-    ]
+    "tags": ["pasaron cosas", "raras", "demo"]
   },
   {
     "message": "Pero que es una transferencia?",
-    "tags": [
-      "una transferencia es"
-    ]
+    "tags": ["una transferencia es"]
   },
   {
     "message": "Pingueame físicamente",
-    "tags": [
-      "ping",
-      "sexual",
-      "estoy caliente",
-      "tu cuerpo"
-    ]
+    "tags": ["ping", "sexual", "estoy caliente", "tu cuerpo"]
   },
   {
     "message": "Podría validar lo que entendi",
-    "tags": [
-      "validar",
-      "entendiste?"
-    ]
+    "tags": ["validar", "entendiste?"]
   },
   {
     "message": "Que es ese código?",
-    "tags": [
-      "el codigo",
-      "ese codigo"
-    ]
+    "tags": ["el codigo", "ese codigo"]
   },
   {
     "message": "Que es esto de Gitlab? Me tengo que crear una cuenta?",
-    "tags": [
-      "gitlab"
-    ]
+    "tags": ["gitlab"]
   },
   {
     "message": "Queda en la mente de ustedes si el proyecto sigue en pie o no...",
-    "tags": [
-      "sigue en pie",
-      "la demo"
-    ]
+    "tags": ["sigue en pie", "la demo"]
   },
   {
     "message": "Queremos ser transparentes pero a veces no se puede",
-    "tags": [
-      "transparen"
-    ]
+    "tags": ["transparen"]
   },
   {
     "message": "Quería estar alineado con lo que vos dijiste ayer a ver si panquequeamos",
-    "tags": [
-      "alineado",
-      "ayer dije"
-    ]
+    "tags": ["alineado", "ayer dije"]
   },
   {
     "message": "Qué es SQL?",
-    "tags": [
-      "sql"
-    ]
+    "tags": ["sql"]
   },
   {
     "message": "Qué horarios estas haciendo?",
-    "tags": [
-      "horarios",
-      "llegando",
-      "irme"
-    ]
+    "tags": ["horarios", "llegando", "irme"]
   },
   {
     "message": "Qué pasa que esto no esta en el excel?",
-    "tags": [
-      "excel"
-    ]
+    "tags": ["excel"]
   },
   {
     "message": "Si no llegabas a aparecer, estaba por escribir a Atix avisando de tu paradero",
-    "tags": [
-      "hola",
-      "aca estoy",
-      "apareci",
-      "apareciste"
-    ]
+    "tags": ["hola", "aca estoy", "apareci", "apareciste"]
   },
   {
     "message": "Si te parece dejá esa tarea en standby",
-    "tags": [
-      "tarea",
-      "que hacemos?",
-      "como lo resuelvo?"
-    ]
+    "tags": ["tarea", "que hacemos?", "como lo resuelvo?"]
   },
   {
     "message": "Si te viene un 0 hardcodeale un 9",
-    "tags": [
-      "hardcode",
-      "como lo resuelvo?"
-    ]
+    "tags": ["hardcode", "como lo resuelvo?"]
   },
   {
     "message": "Siento que no estamos en la misma página",
-    "tags": [
-      "pagina"
-    ]
+    "tags": ["pagina"]
   },
   {
     "message": "So we are aligned",
-    "tags": [
-      "en ingles"
-    ]
+    "tags": ["en ingles"]
   },
   {
     "message": "Sprint traducido literalmente es iteración",
-    "tags": [
-      "iteracion",
-      "sprint",
-      "sabes ingles"
-    ]
+    "tags": ["iteracion", "sprint", "sabes ingles"]
   },
   {
     "message": "Sí, está todo hardcodeado",
-    "tags": [
-      "hardcode",
-      "buenas practicas",
-      "codigo malo"
-    ]
+    "tags": ["hardcode", "buenas practicas", "codigo malo"]
   },
   {
     "message": "Te paso un detalle a ajustar/completar en la carga de horas",
-    "tags": [
-      "que me vas a pasar?",
-      "hay que ajustar algo?"
-    ]
+    "tags": ["que me vas a pasar?", "hay que ajustar algo?"]
   },
   {
     "message": "Tenes algunas referencias de SQL para ver si puedo ayudarlos a los chicos con el desarrollo?",
-    "tags": [
-      "sql"
-    ]
+    "tags": ["sql"]
   },
   {
     "message": "Tengo muchas cosas más para ofrecerte.",
-    "tags": [
-      "ofrecer",
-      "que mas me ofreces"
-    ]
+    "tags": ["ofrecer", "que mas me ofreces"]
   },
   {
     "message": "Trabajar bien no esta relacionado con el presupuesto",
-    "tags": [
-      "laburar",
-      "trabajar",
-      "no tengo plata",
-      "sueldo de mierda",
-      "underpay"
-    ]
+    "tags": ["laburar", "trabajar", "no tengo plata", "sueldo de mierda", "underpay"]
   },
   {
     "message": "Uy, esta planning ya la hicimos",
-    "tags": [
-      "planning"
-    ]
+    "tags": ["planning"]
   },
   {
     "message": "Vamos a atacar esto",
-    "tags": [
-      "atacar",
-      "que hacemos?"
-    ]
+    "tags": ["atacar", "que hacemos?"]
   },
   {
     "message": "Vení que hablamos con el cliente, que me tira esas palabras técnicas que no entiendo",
-    "tags": [
-      "no entiendo",
-      "veni",
-      "que hacemos?"
-    ]
+    "tags": ["no entiendo", "veni", "que hacemos?"]
   },
   {
     "message": "Vos hacé eso asi lo cierro y si no que la chupen",
-    "tags": [
-      "cierro",
-      "lo que voy a hacer",
-      "no se si hacerlo"
-    ]
+    "tags": ["cierro", "lo que voy a hacer", "no se si hacerlo"]
   },
   {
     "message": "Y no hay forma de hacer ese refactor sin modificar el codigo?",
-    "tags": [
-      "refactor"
-    ]
+    "tags": ["refactor"]
   },
   {
     "message": "Y podemos debuggear la respuesta?",
-    "tags": [
-      "debuggear",
-      "respuesta"
-    ]
+    "tags": ["debuggear", "respuesta"]
   },
   {
     "message": "Ya podés poner tu música japonesa @username",
-    "tags": [
-      "anime",
-      "hoy es miercoles",
-      "memusica"
-    ]
+    "tags": ["anime", "hoy es miercoles", "memusica"]
   },
 
   {
     "message": "Yo creo que estamos desalineados pero tenemos que alinearnos",
-    "tags": [
-      "desalineados"
-    ]
+    "tags": ["desalineados"]
   },
   {
     "message": "Yo puedo usar su slack y hacerme pasar por él",
-    "tags": [
-      "slack",
-      "ya no esta mas"
-    ]
+    "tags": ["slack", "ya no esta mas"]
   }
 ]
-
-
-
-
-
-
-
-    
-
-  
-
-
-  
-  
-  
