@@ -26,7 +26,7 @@ const intervalID = setInterval(
               updateOffset([offset + ERROR_OFFSET]);
             })
       )
-      .catch(error => console.log("[getUpdates-error]: ", error)),
+      .catch(error => console.error("[getUpdates-error]: ", error)),
   5000
 );
 
