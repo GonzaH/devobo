@@ -4,9 +4,11 @@ const { url, token } = require("./settings.json");
 const messages = require("./messages.json");
 const { pickResponse } = require("./helpers");
 
+const prefix = `${url}${token}`
+
 const getUpdates = offset =>
   new Promise((resolve, reject) =>
-    Axios.get(`${url}${token}/getUpdates`, {
+    Axios.get(`${prefix}/getUpdates`, {
       params: { offset }
     })
       .then(({ data }) => {
@@ -21,15 +23,17 @@ const getUpdates = offset =>
 const handleResult = result =>
   new Promise((resolve, reject) => {
     try {
-      const { update_id: updateId } = result;
+      const { update_id: updateId, message } = result;
+
       if (
-        !result.message ||
-        !result.message.chat ||
-        !result.message.chat.id ||
-        !result.message.from ||
-        !result.message.text
+        !message ||
+        !message.chat ||
+        !message.chat.id ||
+        !message.from ||
+        !message.text
       )
         return resolve(updateId);
+
       const {
         message: {
           chat: { id: chat_id },
@@ -37,12 +41,14 @@ const handleResult = result =>
           from: { first_name }
         }
       } = result;
+
       console.log("[handleResult]", new Date(), updateId, text);
 
       const response = pickResponse(messages, text, first_name);
+
       if (!response) return resolve(updateId);
 
-      Axios.post(`${url}${token}/sendMessage`, { chat_id, text: response })
+      Axios.post(`${prefix}/sendMessage`, { chat_id, text: response })
         .then(() => resolve(updateId))
         .catch(error => reject(error));
     } catch (error) {

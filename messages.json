@@ -1,7 +1,7 @@
 [
   {
     "message": "*repite lo que dijeron todos en la daily*",
-    "tags": ["repetir"]
+    "tags": ["repetir", "daily"]
   },
   {
     "message": "@projectname debe tener más bugs que chinos en la china",
@@ -13,7 +13,7 @@
   },
   {
     "message": "A veces la calidad del código no es lo que importa",
-    "tags": ["calidad"]
+    "tags": ["calidad", "prioridad"]
   },
   {
     "message": "Ah, así es como vos abrís los archivos de texto",
@@ -33,7 +33,7 @@
   },
   {
     "message": "Automerge a lo loco 😝",
-    "tags": ["a lo loco"]
+    "tags": ["a lo loco", "pull request", "merge request"]
   },
   {
     "message": "Borré la evidencia",
@@ -65,7 +65,7 @@
   },
   {
     "message": "Cómo que no llegamos? A veces te tengo mas confianza que vos mismo",
-    "tags": ["no llegamos"]
+    "tags": ["no llegamos", "confianza"]
   },
   {
     "message": "Cuánto vamos a tardar en hacer todo lo que ya está hecho?",
@@ -81,7 +81,7 @@
   },
   {
     "message": "Eliminemos la blockchain. Nadie la necesita.",
-    "tags": ["blockchain", "cadena de bloquecitos"]
+    "tags": ["blockchain", "cadena de bloquecitos", "inutil"]
   },
   {
     "message": "Entiendo pero necesitamos conseguir el ok del cliente al menos en aspectos generales con el compromiso de arreglar lo que haya que arreglar",
@@ -93,7 +93,7 @@
   },
   {
     "message": "Eso se ve horrible",
-    "tags": ["estetica"]
+    "tags": ["estetica", "feo"]
   },
   {
     "message": "Espero el reporte aprobado",
@@ -109,7 +109,7 @@
   },
   {
     "message": "Esto lo hablamos ayer y te mandaste a hacer cualquier cosa",
-    "tags": ["lo hablamos"]
+    "tags": ["lo hablamos", "cualquiera"]
   },
   {
     "message": "Estuve toda la semana con @projectname, no tengo idea en qué andan todos ustedes",
@@ -125,7 +125,7 @@
   },
   {
     "message": "Habría que analizar en qué les impacta poner una fecha de 181 días en lugar de 180. Hablémoslo un toque.",
-    "tags": ["bcr", "hablemoslo", "tiempo"]
+    "tags": ["bcr", "hablemoslo", "tiempo", "impacto"]
   },
   {
     "message": "Hardcodeen esta parte y listo",
@@ -161,7 +161,7 @@
   },
   {
     "message": "Mostrame en que línea está el bug",
-    "tags": ["bug"]
+    "tags": ["bug", "mostra"]
   },
   {
     "message": "Mucho huevo",
@@ -173,7 +173,7 @@
   },
   {
     "message": "Necesito que tus mañanas sean productivas, @username",
-    "tags": ["a la manana"]
+    "tags": ["a la manana", "inutil"]
   },
   {
     "message": "No castigues al proyecto",
@@ -197,7 +197,7 @@
   },
   {
     "message": "No estamos bajando calidad, estamos cambiando un requerimiento",
-    "tags": ["calidad", "feature", "hablemoslo", "la demo", "pasaron cosas", "planning"]
+    "tags": ["calidad", "feature", "hablemoslo", "la demo", "pasaron cosas", "planning", "hack"]
   },
   {
     "message": "No está alineado, no sé si vos ves lo mismo",
@@ -213,7 +213,7 @@
   },
   {
     "message": "No me tenés que mentir a mí, yo soy el que te ayuda a mentirle al cliente",
-    "tags": ["mentir", "hardcodeado", "feature", "venimos bien"]
+    "tags": ["mentir", "hardcodeado", "feature", "venimos bien", "equipo"]
   },
   {
     "message": "No sé si te enteraste pero el sprint actual de @projectname mutó a otra cosa",
@@ -241,7 +241,7 @@
   },
   {
     "message": "Pasa que lo vendimos con otro seniority",
-    "tags": ["seniority", "atrasado", "demo"]
+    "tags": ["seniority", "atrasado", "demo", "estafa"]
   },
   {
     "message": "Pasaron algunas cosas raras",
@@ -301,7 +301,7 @@
   },
   {
     "message": "Si te viene un 0 hardcodeale un 9",
-    "tags": ["hardcode", "como lo resuelvo?"]
+    "tags": ["hardcode", "como lo resuelvo?", "fix", "hack"]
   },
   {
     "message": "Siento que no estamos en la misma página",
@@ -313,7 +313,7 @@
   },
   {
     "message": "Sprint traducido literalmente es iteración",
-    "tags": ["iteracion", "sprint", "sabes ingles"]
+    "tags": ["iteracion", "sprint", "sabes ingles", "literal"]
   },
   {
     "message": "Sí, está todo hardcodeado",
@@ -337,7 +337,7 @@
   },
   {
     "message": "Uy, esta planning ya la hicimos",
-    "tags": ["planning"]
+    "tags": ["planning", "dejavu"]
   },
   {
     "message": "Vamos a atacar esto",
@@ -363,13 +363,12 @@
     "message": "Ya podés poner tu música japonesa @username",
     "tags": ["anime", "hoy es miercoles", "memusica"]
   },
-
   {
     "message": "Yo creo que estamos desalineados pero tenemos que alinearnos",
-    "tags": ["desalineados"]
+    "tags": ["desalineados", "alinear"]
   },
   {
     "message": "Yo puedo usar su slack y hacerme pasar por él",
-    "tags": ["slack", "ya no esta mas"]
+    "tags": ["slack", "ya no esta mas", "impostor"]
   }
 ]

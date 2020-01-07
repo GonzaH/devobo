@@ -9,6 +9,8 @@ const normalizeText = input =>
 // Replaces the value of `template` with that of `insert` function.
 const replace = (accum, { template, insert }) => accum.replace(template, insert());
 
+const getRandom = ({ length }) => Math.floor(Math.random() * length)
+
 /* Replaces the values of `template` values with certain params.
  * For example, `@username` is replaced by the username passed.
  */
@@ -25,7 +27,7 @@ const replaceTemplate = (text, { username = "" }) =>
  * Returns its message.
  * @param { Array } r - The list of responses.
  */
-const chooseFromResponses = r => r[Math.floor(Math.random() * r.length)].message;
+const chooseFromResponses = r => r[getRandom(r)].message;
 
 const pickResponse = (messages, input, username) => {
   const normalizedInput = normalizeText(input);
@@ -48,7 +50,7 @@ const obfuscatedToLegible = obfuscated => String.fromCharCode(...obfuscated.spli
 
 // Returns a project
 const getProject = () => {
-  const obfuscatedProject = projects[Math.floor(Math.random() * projects.length)];
+  const obfuscatedProject = projects[getRandom(projects)];
   return obfuscatedToLegible(obfuscatedProject);
 };
 
