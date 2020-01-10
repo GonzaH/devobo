@@ -56,6 +56,10 @@
     "tags": ["hardcode"]
   },
   {
+    "message": "Creo que mi perfil es más coachear",
+    "tags": ["perfil", "coach", "no soy pm"]
+  },
+  {
     "message": "Cuando lo explicó tenía sentido",
     "tags": ["explic"]
   },
@@ -140,6 +144,14 @@
     "tags": ["calidad", "venimos bien"]
   },
   {
+    "message": "Hola @username! Ahora cuando lleguen los chicos nos alineamos y empezamos a trabajar en esto",
+    "tags": ["hola", "cuando lleguen", "cuando llegue", "los chicos", "empezamos a trabajar"]
+  },
+  {
+    "message": "Hoy por hoy lo hardcodearia",
+    "tags": ["hoy por hoy", "fix", "solucion"]
+  },
+  {
     "message": "Ignorá eso por ahora",
     "tags": ["ignora"]
   },
@@ -154,6 +166,10 @@
   {
     "message": "Me causa gracia que @username le haya cargado 3 horas y la tarea siga en open",
     "tags": ["horas"]
+  },
+  {
+    "message": "Mira este caso, tenemos unos usuarios: micho, tito, negro * se rie *",
+    "tags": ["usuarios", "este caso"]
   },
   {
     "message": "Mirame",
@@ -272,6 +288,10 @@
     "tags": ["sigue en pie", "la demo"]
   },
   {
+    "message": "¿Qué es un tera?",
+    "tags": ["tera", "que es"]
+  },
+  {
     "message": "Queremos ser transparentes pero a veces no se puede",
     "tags": ["transparen"]
   },
@@ -346,6 +366,10 @@
   {
     "message": "Vení que hablamos con el cliente, que me tira esas palabras técnicas que no entiendo",
     "tags": ["no entiendo", "veni", "que hacemos?"]
+  },
+  {
+    "message": "Veo que uds hablan de la api pero, qué es una api?",
+    "tags": ["api", "que es"]
   },
   {
     "message": "Vos hacé eso asi lo cierro y si no que la chupen",
