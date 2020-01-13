@@ -1,6 +1,6 @@
 const projects = require('./projects')
 
-const DIMA_PROBABILITY = 10;
+const DIMA_PROBABILITY = 100;
 
 const normalizeText = input =>
   input
