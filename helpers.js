@@ -1,5 +1,7 @@
 const projects = require('./projects')
 
+const DIMA_PROBABILITY = 10;
+
 const normalizeText = input =>
   input
     .normalize("NFD")
@@ -30,6 +32,7 @@ const replaceTemplate = (text, { username = "" }) =>
 const chooseFromResponses = r => r[getRandom(r)].message;
 
 const pickResponse = (messages, input, username) => {
+  if (!getRandom({ length: DIMA_PROBABILITY })) return input;
   const normalizedInput = normalizeText(input);
   const responses = messages.filter(
     m => m.tags.filter(t => normalizedInput.includes(t)).length
