@@ -289,7 +289,7 @@
   },
   {
     "message": "¿Qué es un tera?",
-    "tags": ["tera", "que es"]
+    "tags": ["1 tera", "un tera"]
   },
   {
     "message": "Queremos ser transparentes pero a veces no se puede",
@@ -369,7 +369,7 @@
   },
   {
     "message": "Veo que uds hablan de la api pero, qué es una api?",
-    "tags": ["api", "que es"]
+    "tags": ["api"]
   },
   {
     "message": "Vos hacé eso asi lo cierro y si no que la chupen",
